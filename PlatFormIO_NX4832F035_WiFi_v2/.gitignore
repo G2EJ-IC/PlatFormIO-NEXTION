@@ -1,0 +1,9 @@
+.gitattributes
+.pio
+.vscode
+ico
+*.ico
+ico/*.ico
+Desktop.ini
+
+
