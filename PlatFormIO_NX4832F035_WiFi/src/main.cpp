@@ -335,7 +335,7 @@ void page2_b4PopCallback(void *ptr) {
 void page2_b5PopCallback(void *ptr) {
   dbSerialPrintln("page2_b5PopCallback");
 }
-							   
+
 void page1_t0PopCallback(void *ptr) {
   dbSerialPrintln("page1_t0PopCallback");
 }
